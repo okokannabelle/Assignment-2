@@ -1,0 +1,39 @@
+h1 {
+  color:purple;
+}
+h2 {
+  color:fuchsia;
+}
+#one {
+  color:orange;
+  font-size: 150%;
+  text-transform:uppercase;
+  position: absolute;
+  top: auto;
+}
+#two {
+  color:red;
+  font-size: 150%;
+  font-family: "Avenir", Avenir,sans-serif;
+  text-transform:uppercase;
+  position: fixed;
+
+}
+.p1, .p2{
+  color:blue;
+  position: relative;
+  left: 80px;
+}
+.div3, .p3{
+  color: green;
+}
+div {
+  background-color: lightblue;
+  margin: auto;
+  border-style: solid;
+  border-width: thin;
+  padding-top: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-left: 50px;
+}
